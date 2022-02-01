@@ -1,0 +1,27 @@
+{
+  "name": "accordion-block-demo",
+  "version": "1.0.0",
+  "description": "A Gutenberge block Demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@10up/babel-preset-default": "^2.0.0",
+    "@babel/core": "^7.16.12",
+    "babel-loader": "^8.2.3",
+    "css-loader": "^6.5.1",
+    "mini-css-extract-plugin": "^2.5.3",
+    "node-sass": "^7.0.1",
+    "postcss-loader": "^6.2.1",
+    "sass-loader": "^12.4.0",
+    "webpack": "^5.67.0",
+    "webpack-cli": "^4.9.2"
+  },
+  "dependencies": {
+    "@wordpress/components": "^19.3.0",
+    "@wordpress/element": "^4.1.0"
+  }
+}

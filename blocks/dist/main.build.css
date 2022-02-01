@@ -1,0 +1,9 @@
+:root {
+
+    /* Font Sizes */
+    --acd-font-size--small: var(--wp--preset--font-size--small, 1rem);
+    --acd-font-size--medium: var(--wp--preset--font-size--medium, 1.12rem);
+    --acd-font-size--large: var(--wp--preset--font-size--large, 1.75rem);
+}
+.accordion__block .accordion__head{position:relative}.accordion__block .accordion__head .accordion__toggle{display:flex;align-items:center;position:absolute;top:0;right:0;bottom:0;color:inherit;background-color:rgba(0,0,0,0.2);padding:0 7px;cursor:pointer}.accordion__block .accordion__head h3{font-size:var(--acd-font-size--medium);font-weight:500;max-width:calc(100% - 40px);padding:0.5em;margin:0}.accordion__block .accordion__body__inner{font-size:var(--acd-font-size--small);padding:0.5em}.accordion__block .block-list-appender .block-editor-default-block-appender{height:auto}
+
